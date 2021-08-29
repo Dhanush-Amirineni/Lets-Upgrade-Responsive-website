@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Assignment 2</title>
+        <link rel="stylesheet" href="Assignment 2.css" />
+    </head>
+    <body>
+        <div class="container">
+            <div class="title">
+                <h1>This is the title of the blog</h1>
+                <h5>Title description, AUG 27, 2021</h5>
+            </div>
+            <hr/>
+            <div class="content">
+            
+                <p>
+                    
+                    -------------content----------------
+                <p>
+                    
+                    -------------content----------------
+                </p>
+                <p> 
+                    -------------content----------------
+                </p> 
+                --------------------content--------------
+                <p>
+                    
+                </p>
+            </div>
+        </div>
+    </body>
+</html>
